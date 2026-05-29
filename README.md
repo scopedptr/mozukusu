@@ -13,6 +13,7 @@
 ### 実験
 
 - [ppid （永続的な品詞ID）の提案](ppid.md)
+- [Mozc 辞書データの、意味グループでの分割](divide_and_conquer.md)
 
 ### 資料
 
